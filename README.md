@@ -71,3 +71,6 @@ https://habr.com/ru/company/sbermarket/blog/665260/
 
 ## Фундаментальная теория тестирования
 https://habr.com/ru/post/549054/
+
+## Виды тестирования ПО
+https://qaevolution.ru/testirovanie-po/vidy-testirovaniya-po/
