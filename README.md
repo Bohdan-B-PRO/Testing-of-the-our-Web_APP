@@ -50,6 +50,9 @@ https://gb.ru/lessons/263286
 ### Создание баг-репортов. Практика
 https://gb.ru/lessons/263288
 
+### TestEnginner
+https://testengineer.ru/chto-takoe-test-plan-i-kak-ego-napisat/#4
+
 ## Иструменты тестирования Web
 
 ### DevTools
