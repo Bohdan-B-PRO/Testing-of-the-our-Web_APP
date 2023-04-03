@@ -15,6 +15,9 @@
 
 ## Основное
 
+## Software-testing.ru
+https://www.software-testing.ru/library/testing/general-testing/335-risk-management-in-software-testing
+
 ## Про Тестинг - Тестирование Программного Обеспечения
 http://www.protesting.ru
 
