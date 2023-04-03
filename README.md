@@ -15,10 +15,13 @@
 
 ## Основное
 
-## Software-testing.ru
+### Итересный мотериал о тестировании
+http://cs.petrsu.ru/~kulakov/courses/testing/lectures/01.intro.pdf
+
+### Software-testing.ru
 https://www.software-testing.ru/library/testing/general-testing/335-risk-management-in-software-testing
 
-## Про Тестинг - Тестирование Программного Обеспечения
+### Про Тестинг - Тестирование Программного Обеспечения
 http://www.protesting.ru
 
 ### Руководство по сквозному тестированию: что такое E2E-тестирование с примерам
