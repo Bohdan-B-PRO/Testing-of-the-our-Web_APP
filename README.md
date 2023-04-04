@@ -1,7 +1,6 @@
+# Материалы для тестирования 
+
 # Наш сайт https://katerinkapro.github.io/dip.project.github.io/index.html
-Подробыне вопросоы к плану тестирования https://docs.google.com/spreadsheets/d/15uEZOkarMuQwPsIlFRrn7Zjw-rTRVEATTZ_y7j-Li-s/edit#gid=0
-
-
 
 # Примечание
 
